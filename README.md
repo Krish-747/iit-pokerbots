@@ -89,8 +89,8 @@ OVERALL BotA Net: +12345    BotB Net: -12345
 
 **`config.py`**:
 ```python
-bot_a = "new_bot.Player"     # Hero
-bot_b = "example_bot.Player" # Villain
+bot_a = "new_bot.py"     # Opponent A
+bot_b = "example_bot.py" # Opponent B
 ```
 
 ## Key Parameters (`new_bot.py`)
